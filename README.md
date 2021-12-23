@@ -1,4 +1,4 @@
-# [Timeline.js](https://a4arjun.github.com/timeline/v1)
+# [Timeline.js](https://a4arjun.github.io/timeline/v1)
 
 The "HTML"
        
