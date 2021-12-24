@@ -7,8 +7,8 @@ The "HTML"
            <body>
               <div id="timeline"><div>
              <script src="path/to/timeline.js"></script>
-           <body>
-         <html>
+           </body>
+         </html>
        
 
      
